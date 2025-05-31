@@ -60,7 +60,7 @@ public class AI_ScoreManager {
     }
 
     private void saveBestScoreToFile() {
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("src/main/resources/com/example/_2048/BestScore.txt"))){
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter("src/main/resources/com/example/_2048_expectimax/BestScore.txt"))){
             writer.write(String.valueOf(bestScore));
         } catch (Exception e) {
             System.out.println(e);
