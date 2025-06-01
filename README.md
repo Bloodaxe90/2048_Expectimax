@@ -28,6 +28,6 @@ Run the main method in the AI_2048_Application class
 </ul>
 
 <h2>Results:</h2>
-Screenshot of the final UI
+This project was very successful with the final AI able to consistently reach a score of 2048
 
 ![image](https://github.com/user-attachments/assets/d3e2770c-67b0-4c6b-942e-cc1d934f81fd)
